@@ -36,32 +36,38 @@
   "types": [
     {
       "information": {
-        "value": "MRI Image"
+        "value": "MRI Image",
+		"valueIRI": "http://uri.interlex.org/ilx_0779748"
       }
     },
     {
       "information": {
-        "value": "Diffusion-weighted MRI 3D image "
+        "value": "Diffusion-weighted MRI 3D image",
+		"valueIRI": "http://uri.interlex.org/ilx_0103245"
       }
     },
     {
       "information": {
-        "value": "T1-weighted MRI 3D image "
+        "value": "T1-weighted MRI 3D image",
+		"valueIRI": "http://uri.interlex.org/ilx_0111444"
       }
     },
     {
       "information": {
-        "value": "T2-weighted MRI 3D image "
+        "value": "T2-weighted MRI 3D image",
+		"valueIRI": "http://uri.interlex.org/ilx_0111450"
       }
     },
     {
       "information": {
-        "value": "Susceptibility-weighted MRI 3D image "
+        "value": "Susceptibility-weighted MRI 3D image",
+		"valueIRI": "http://uri.interlex.org/ilx_0111381"
       }
     },
     {
       "information": {
-        "value": "Blood Oxygen Level Dependent Functional Magnetic Resonance Imaging "
+        "value": "Blood Oxygen Level Dependent Functional Magnetic Resonance Imaging",
+		"valueIRI": "http://uri.interlex.org/ilx_0739352"
       }
     }
   ],
